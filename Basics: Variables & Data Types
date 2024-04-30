@@ -1,0 +1,18 @@
+JS is a programming language. We use it to give instructions to the computer.
+Input(code) --> Computer --> Output
+In window we can go to chrome browser and type inspect and then go to console and type CTRL+K --> It will clear console.
+
+we can create an alert in browser by typing in cosole:-
+
+>alert("My name is Komal"); --> after hitting ENTER it will show a pop-up written My name is Komal.
+
+
+
+OUR FIRST JS CODE:
+
+--------------------------------------------------
+
+console.log is used to log(print) a message to the console.
+console.log("Komal Kumari");
+
+To connect JAVASCRIPT to browser we have to make a HTML File. By convention we give index name to HTML file.
